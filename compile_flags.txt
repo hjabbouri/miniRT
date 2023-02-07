@@ -1,0 +1,5 @@
+-Wall
+-Werror
+-Wextra
+-Iinclude
+-I/usr/local/include
