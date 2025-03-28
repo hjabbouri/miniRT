@@ -21,3 +21,6 @@
 
 [Scene 7](./scenes/aladin.rt)
 ![image](https://github.com/hjabbouri/miniRT/blob/master/images/aladin.png)
+
+[Scene 8](./scenes/billiard.rt)
+![image](https://github.com/hjabbouri/miniRT/blob/master/images/billiard.png)
